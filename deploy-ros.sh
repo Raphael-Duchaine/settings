@@ -14,7 +14,7 @@ sudo apt update
 # Install ROS and dependencies
 sudo apt install -y ros-kinetic-desktop-full
 sudo apt install -y python-rosinstall python-rosinstall-generator python-wstool build-essential
-sudo apt install -y ros-kinetic-ros-control ros-kinetic-hardware-interface ros-kinetic-moveit ros-kinetic-navigation
+sudo apt install -y ros-kinetic-ros-control ros-kinetic-hardware-interface ros-kinetic-moveit ros-kinetic-navigation ros-kinetic-rosbridge-server
 sudo apt install -y ffmpeg
 sudo apt install -y python-imaging python-imaging-tk python-pip
 pip install --upgrade pip
